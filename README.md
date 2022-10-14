@@ -11,7 +11,7 @@ Compile the shared library:
 In case some python3 libraries are missing use pip3 install
 
 ## Usage
-Store the spheres coordinates in a xyzr file containing 4 columns organized as follows:
+### Store the spheres coordinates in a xyzr file containing 4 columns organized as follows:
 
 | | x | y | z | radius|
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ sphere 1 | | | | |
 sphere 2 | | | | |
 ... | | | | |
 sphere n | | | | |
-
+### Run
 python3 arco.py *\<coordinates_file.xyzr\>*
 
 ## Credits
