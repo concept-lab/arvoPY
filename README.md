@@ -1,4 +1,4 @@
-# spheresVolume
+# arvoPY
 Python interface to compute the analytic area and volume of overlapping spheres via the ARVO method.
 
 ## Installation
@@ -26,6 +26,6 @@ python3 arco.py *\<coordinates_file.xyzr\>*
 The script uses with small modifications the C version of the ARVO softwares (*arvo.c*) for the analytical computation of volume and areas of ensembles of overlapping spheres. This is the core of the program.
 The original paper can be found here: [J. Buša Jr. et al., Computer Physics Communications 183 (2012) 2494–2497](https://www.sciencedirect.com/science/article/pii/S0010465512001580) 
 
-To acnowledge my contribution: Luca Gagliardi -- CONCEPTlab - IIT, *spheresVolume*, (2022) GitHub repository.
+To acnowledge my contribution: Luca Gagliardi -- CONCEPTlab - IIT, *arvoPY*, (2022) GitHub repository.
 
 
